@@ -1,5 +1,5 @@
 # Mail-Server
-E-ticaret sitem için Email Doğrulamak için yazdığım bir API
+Email Doğrulamak için yazdığım bir API
 
 # Config.js adlı dosyayı doldurup kullanabilirsiniz.
 ## Çalışma mantığı
